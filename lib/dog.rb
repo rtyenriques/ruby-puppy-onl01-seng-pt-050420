@@ -1,6 +1,6 @@
 # Add your code here
 class Dog
-
+attr_accesor :name
 @@all = []
 
 def initialize
